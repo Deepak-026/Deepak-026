@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack doftware Development Projects  <br>👯 I’m looking to collaborate on Open Source and Web Apps  <br>🤝 I’m looking for help with Backend Optimization and Deployment  <br>💬 Ask me about JavaScript, React, Node.js, and MongoDB  <br>⚡ Fun fact: I turn coffee into code ☕
+I’m currently working on Full Stack doftware Development Projects  <br> I’m looking to collaborate on Open Source and Web Apps  <br> I’m looking for help with Backend Optimization and Deployment  <br>Ask me about JavaScript, React, Node.js, and MongoDB  <br>Fun fact: I turn coffee into code ☕
 
 
 ## 🌐 Socials:
